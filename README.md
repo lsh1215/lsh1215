@@ -62,10 +62,10 @@ AI / Automation :
 - [E-Commerce Platform](https://github.com/lsh1215/ecommerce-microservices) (2026.02 - 2026.04)  
   Java/Spring Boot MSA for order, payment, product, and member domains.
 
-- AutoNotify with Qualcomm (2025.03 - 2025.06 / 2025.12 - 2026.02)  
+- [AutoNotify with Qualcomm](https://github.com/Qualcomm-Capstone) (2025.03 - 2025.06 / 2025.12 - 2026.02)  
   On-device AI vehicle detection and notification pipeline.
 
-- Solomon-AI (2024.06 - 2024.08)  
+- [Solomon-AI](https://github.com/2024-SummerBootcamp-Team-L) (2024.06 - 2024.08)  
   Legal-grounded conversational AI service with RAG and streaming responses.
 
 ---
