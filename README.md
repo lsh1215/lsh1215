@@ -87,7 +87,7 @@ Status labels for future updates:
 - 🟡 `In Review` [Redis Lettuce #3803](https://github.com/redis/lettuce/pull/3803)  
   Updated Kotlin coroutine APIs, docs, generator output, and regression tests.
 
-- 🟣 `Merge Pending` [OpenSearch Java #2017](https://github.com/opensearch-project/opensearch-java/pull/2017)  
+- ✅ `Merged` [OpenSearch Java #2017](https://github.com/opensearch-project/opensearch-java/pull/2017)  
   Added a Document Lifecycle guide and runnable sample.
 
 - ✅ `Merged` [Spring AI #4220](https://github.com/spring-projects/spring-ai/pull/4220)  
