@@ -13,7 +13,7 @@ I like building systems whose behavior can be explained with tests, fault inject
 ### Tech Stack
 
 Language :  
-![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Back-End :  
