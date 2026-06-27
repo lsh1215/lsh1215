@@ -88,7 +88,7 @@ Status labels for future updates:
   Updated Kotlin coroutine APIs, docs, generator output, and regression tests.
 
 - 🟡 `In Review` [Apache Lucene #16300](https://github.com/apache/lucene/pull/16300)  
-  Reduced avoidable memory pressure in `TestTermInSetQuery.testDuel`.
+  Analyzed OOM in `TestTermInSetQuery.testDuel` and reduced query-cache/TopDocs heap pressure.
 
 - ✅ `Merged` [OpenSearch Java #2017](https://github.com/opensearch-project/opensearch-java/pull/2017)  
   Added a Document Lifecycle guide and runnable sample.
