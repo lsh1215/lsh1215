@@ -87,6 +87,9 @@ Status labels for future updates:
 - 🟡 `In Review` [Redis Lettuce #3803](https://github.com/redis/lettuce/pull/3803)  
   Updated Kotlin coroutine APIs, docs, generator output, and regression tests.
 
+- 🟡 `In Review` [Apache Lucene #16300](https://github.com/apache/lucene/pull/16300)  
+  Reduced avoidable memory pressure in `TestTermInSetQuery.testDuel`.
+
 - ✅ `Merged` [OpenSearch Java #2017](https://github.com/opensearch-project/opensearch-java/pull/2017)  
   Added a Document Lifecycle guide and runnable sample.
 
