@@ -81,6 +81,9 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
+- 🟡 `In Review` [Spring Data Relational #2324](https://github.com/spring-projects/spring-data-relational/pull/2324)  
+  Fixed Spring Data JDBC mapping so unordered `Collection` child elements can be saved and loaded without a key column.
+
 - 🟡 `In Review` [Docker CLI #7075](https://github.com/docker/cli/pull/7075)  
   Added an IP masquerading example for custom bridge networks.
 
