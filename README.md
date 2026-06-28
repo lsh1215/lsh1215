@@ -88,7 +88,7 @@ Status labels for future updates:
   Updated Kotlin coroutine APIs, docs, generator output, and regression tests.
 
 - 🟡 `In Review` [Redis Lettuce #3809](https://github.com/redis/lettuce/pull/3809)  
-  Moved a skipped JFR event recorder test into Surefire's test path and fixed an outdated no-JFR event fixture.
+  Fixed a skipped JFR event recorder test so it runs in Maven, and replaced an outdated no-JFR event fixture.
 
 - 🟡 `In Review` [Apache Lucene #16300](https://github.com/apache/lucene/pull/16300)  
   Analyzed OOM in `TestTermInSetQuery.testDuel` and reduced query-cache/TopDocs heap pressure.
