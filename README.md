@@ -81,7 +81,7 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
-- 🟡 `In Review` [Spring Data Relational #2324](https://github.com/spring-projects/spring-data-relational/pull/2324)  
+- ✅ `Merged` [Spring Data Relational #2324](https://github.com/spring-projects/spring-data-relational/pull/2324)  
   Fixed Spring Data JDBC mapping so unordered `Collection` child elements can be saved and loaded without a key column.
 
 - 🟡 `In Review` [OpenSearch Java #2033](https://github.com/opensearch-project/opensearch-java/pull/2033)  
