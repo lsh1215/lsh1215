@@ -96,7 +96,7 @@ Status labels for future updates:
 - ✅ `Merged` [Redis Lettuce #3809](https://github.com/redis/lettuce/pull/3809)  
   Fixed a skipped JFR event recorder test so it runs in Maven, and replaced an outdated no-JFR event fixture.
 
-- 🟡 `In Review` [Apache Lucene #16300](https://github.com/apache/lucene/pull/16300)  
+- ✅ `Merged` [Apache Lucene #16300](https://github.com/apache/lucene/pull/16300)  
   Analyzed OOM in `TestTermInSetQuery.testDuel` and reduced query-cache/TopDocs heap pressure.
 
 - ✅ `Merged` [OpenSearch Java #2017](https://github.com/opensearch-project/opensearch-java/pull/2017)  
