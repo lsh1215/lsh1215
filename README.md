@@ -81,6 +81,9 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
+- 🟡 `In Review` [Redis Lettuce #3843](https://github.com/redis/lettuce/pull/3843)  
+  Fixed Master/Replica `SCAN`/`HSCAN`/`SSCAN`/`ZSCAN` under `ReadFrom` by pinning cursor continuations to the issuing node so full scans stop dropping keys.
+
 - ✅ `Merged` [Spring Data Relational #2324](https://github.com/spring-projects/spring-data-relational/pull/2324)  
   Fixed Spring Data JDBC mapping so unordered `Collection` child elements can be saved and loaded without a key column.
 
