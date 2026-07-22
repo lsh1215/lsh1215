@@ -90,7 +90,7 @@ Status labels for future updates:
 - ✅ `Merged` [OpenSearch Java #2033](https://github.com/opensearch-project/opensearch-java/pull/2033)  
   Added Testcontainers-backed OpenSearch startup for integration tests, removing the Docker Compose pre-run step.
 
-- 🟡 `In Review` [Docker CLI #7075](https://github.com/docker/cli/pull/7075)  
+- 🟡 `In Review` [Docker CLI #7117](https://github.com/docker/cli/pull/7117)  
   Added an IP masquerading example for custom bridge networks.
 
 - 🟡 `In Review` [Redis Lettuce #3803](https://github.com/redis/lettuce/pull/3803)  
