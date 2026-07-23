@@ -81,6 +81,9 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
+- 🟡 `In Review` [Hibernate ORM #13104](https://github.com/hibernate/hibernate-orm/pull/13104)  
+  Fixed `ScrollableResults#setRowNumber(0)` in the collection-fetch implementation to position before the first row instead of throwing, matching the standard implementation.
+
 - 🟡 `In Review` [Redis Lettuce #3843](https://github.com/redis/lettuce/pull/3843)  
   Fixed Master/Replica `SCAN`/`HSCAN`/`SSCAN`/`ZSCAN` under `ReadFrom` by pinning cursor continuations to the issuing node so full scans stop dropping keys.
 
