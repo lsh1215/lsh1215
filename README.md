@@ -81,6 +81,9 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
+- 🟡 `In Review` [Spring Session #3870](https://github.com/spring-projects/spring-session/pull/3870)  
+  Fixed `SortedSetRedisSessionExpirationStore` cleanup to touch the session's `expires` shadow key so Redis keyspace expiration events fire and `SessionExpiredEvent`/`SessionDeletedEvent` are published.
+
 - 🟡 `In Review` [Hibernate ORM #13104](https://github.com/hibernate/hibernate-orm/pull/13104)  
   Fixed `ScrollableResults#setRowNumber(0)` in the collection-fetch implementation to position before the first row instead of throwing, matching the standard implementation.
 
