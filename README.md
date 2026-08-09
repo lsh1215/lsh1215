@@ -81,6 +81,9 @@ Status labels for future updates:
 - ⚪ `Closed`         Closed without merge.
 -->
 
+- 🟡 `In Review` [Spring Integration #11247](https://github.com/spring-projects/spring-integration/pull/11247)  
+  Fixed `JdbcMetadataStore.putIfAbsent()` looping forever under MySQL `REPEATABLE READ` by re-reading with the locking query only when the non-locking re-read comes back empty, so it observes the same state the insert did.
+
 - 🟡 `In Review` [Spring Session #3870](https://github.com/spring-projects/spring-session/pull/3870)  
   Fixed `SortedSetRedisSessionExpirationStore` cleanup to touch the session's `expires` shadow key so Redis keyspace expiration events fire and `SessionExpiredEvent`/`SessionDeletedEvent` are published.
 
